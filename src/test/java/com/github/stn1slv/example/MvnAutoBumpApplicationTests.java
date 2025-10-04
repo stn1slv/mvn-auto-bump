@@ -8,6 +8,4 @@ class MvnAutoBumpApplicationTests {
 
 	@Test
 	void contextLoads() {}
-	// --- IGNORE ---
-
 }
