@@ -73,7 +73,7 @@ git add pom.xml
 
 ---
 
-## � Quick Start
+## 🚀 Quick Start
 
 ### macOS / Linux
 
