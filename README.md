@@ -24,10 +24,8 @@ It works seamlessly on both **macOS/Linux** and **Windows**, requires **no globa
 - [Pre-commit Hook](#%EF%B8%8F-pre-commit-hook)
 - [Quick Start](#-quick-start)
 - [How It Works](#-how-it-works)
-- [Optional Customization](#-optional-customization)
 - [Uninstall](#-uninstall)
 - [Requirements](#-requirements)
-- [License](#-license)
 
 ---
 
@@ -160,13 +158,6 @@ Or simply run the disable script:
 - **Git** ≥ 2.13
 - **Maven** ≥ 3.6 (must be available on `PATH`)
 - **Operating System**: macOS, Linux (bash), or Windows (PowerShell / Git Bash)
-
----
-
-## 🧾 License
-
-This template is open for internal use and adaptation.  
-You may freely modify and redistribute it across your projects.
 
 ---
 
